@@ -19,8 +19,8 @@ Frontend: React, Svelte
 Android: Java, React Native
 
 Phone: (959) 250 967 085
-CPU: Human Brain
-GPU: Human Skin
+Email: pwhbdev@gmail.com
+Portfolio: pwhb.vercel.app
 
 ```
 
