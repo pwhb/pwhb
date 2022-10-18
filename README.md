@@ -20,7 +20,7 @@ Android: Java, React Native
 
 Phone: (959) 250 967 085
 Email: pwhbdev@gmail.com
-Portfolio: (pwhb.vercel.app)[https://pwhb.vercel.app]
+Portfolio: https://pwhb.vercel.app
 
 ```
 
