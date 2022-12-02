@@ -7,14 +7,15 @@
 ```csharp
 pwhb@github
 -------------------------
-OS: Arch Linux x86_64
-Host: Homo sapiens
+OS: Strawberries
+Host: Homo Sapiens
 Uptime: 24 years
 
-Languages: Go, Rust, JavaScript
+Languages: Go, Rust, JavaScript, Csharp
 Interests: Game Development, Artificial Intelligence
-Backend: Go, Nodejs
 Frontend: React, Svelte
+Backend: Go, Nodejs, ASP.NET
+
 
 Phone: (959) 250 967 085
 Email: pwhbdev@gmail.com
