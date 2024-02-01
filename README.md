@@ -7,14 +7,14 @@
 ```csharp
 pwhb@github
 -------------------------
-OS: Cauliflower
+OS: Freedom
 Host: Homo Sapiens
-Uptime: 24 years
+Uptime: 26 years
 
 Languages: Go, Rust, JavaScript, Csharp
 Interests: Game Development, Artificial Intelligence
 Frontend: React, Svelte
-Backend: Go, Nodejs, ASP.NET
+Backend: Go, Nodejs
 
 
 Phone: (959) 250 967 085
