@@ -11,10 +11,10 @@ OS: Freedom
 Host: Homo Sapiens
 Uptime: 26 years
 
-Languages: Go, Rust, JavaScript, Csharp
+Languages: JavaScript, Go, Java, Python
 Interests: Game Development, Artificial Intelligence
-Frontend: React, Svelte
-Backend: Go, Nodejs
+Frontend: React, Svelte, Solidjs
+Backend: Go, Nodejs, Spring
 
 
 Phone: (959) 250 967 085
